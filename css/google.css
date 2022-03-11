@@ -1,0 +1,118 @@
+
+.image {
+    text-align: center;
+    
+}
+
+.container_1 {
+    background-color: rgb(243, 239, 239);
+    width: 90%;
+    height: 65px;
+    text-align: center;
+    margin: auto auto;
+    padding: 0;
+    font-size: medium;  
+}
+
+.kutu_1 {
+    background-color: white;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    margin: auto auto; /* kısayolu??? */
+    color: white;
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+}
+
+
+.float_left_1 {
+    float: left;
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+    padding: 2px;
+
+}
+
+.float_left_2 {
+    float: left;
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+    padding: 2px;
+
+}
+
+.margin1 {
+    margin: 0 0 0 42%;
+
+}
+
+.margin2 {
+    margin: 0 20% 0 0.4%;
+    
+}
+
+
+.fotter_left {
+    float: left;   
+    background-color:rgb(126, 229, 218);
+    width: 500px;
+    height: 68px;
+    margin: 2px 2px 0 0;
+    padding: 9px 0 0 0;
+}
+
+.fotter_mid {
+    float: left;
+    background-color:rgb(112, 204, 194);
+    width: 280px;
+    height: 68px;
+    font-size: small;
+    margin: 2px 2px 0 0;
+    padding: 9px 0 0 0;
+
+}
+
+.fotter_right {
+    float: right;
+    background-color:rgb(98, 179, 170);
+    width: 584px;
+    height: 77px;
+    font-size: small;
+    margin: 2px 0 0 0;
+    padding: 0 0 0 0;
+
+}
+
+.kutu_2 {
+    background-color: white;
+    width: 175px;
+    height: 20px;
+    text-align:left;
+    margin: auto auto; /* kısayolu??? */
+    color:black;
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+    font-size: medium;
+}
+
+.float_left_3 {
+    float: left;
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+    padding: 0 10px 0 10px;
+    background-color: rgb(219, 214, 214);
+    font-size: medium;
+    margin: 0 0 0 39%;
+}
+
+.float_left_4 {
+    float: left;
+    padding: 3px 10px 0 10px;
+    margin: 0;
+}
